@@ -1,0 +1,6 @@
+﻿backups/
+*.zip
+clientes.csv
+tickets.csv
+node_modules/
+.env
